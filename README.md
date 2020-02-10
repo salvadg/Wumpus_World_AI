@@ -11,5 +11,4 @@ The Wumpus World is a cave consisting of rooms connected by passageways.
 
 ## MyAi.java
 Utilizes DFS as a basic AI that prioritizes staying alive even at the risk of not finding any gold.
-The Ai does not know the boundaries of its environment so it relys on the feedback of "bumping" a wall to map out the world
-as it explores it.
+The Ai does not know the boundaries of its environment so it relys on the environments feedback such as "bumping" a wall to map out the world as it explores it.
