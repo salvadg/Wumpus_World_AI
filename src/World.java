@@ -1,13 +1,3 @@
-// ======================================================================
-// FILE:        World.java
-//
-// AUTHOR:      Abdullah Younis
-//
-// DESCRIPTION: This file contains the world class, which is responsible
-//              for everything game related.
-//
-// NOTES:       - Don't make changes to this file.
-// ======================================================================
 
 import java.util.Random;
 import java.io.IOException;
@@ -16,9 +6,6 @@ import java.util.Scanner;
 
 public class World
 {
-	// ===============================================================
-	// =						Declarations
-	// ===============================================================	
 	
 	// Tile Structure
 	private class Tile
