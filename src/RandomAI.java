@@ -1,16 +1,3 @@
-// ======================================================================
-// FILE:        RandomAI.java
-//
-// AUTHOR:      Abdullah Younis
-//
-// DESCRIPTION: This file contains the random agent class, which
-//              implements the agent interface. The RandomAI will return
-//              a random move at every turn of the game, with only one
-//              exception. If the agent perceives glitter, it will grab
-//              the gold.
-//
-// NOTES:       - Don't make changes to this file.
-// ======================================================================
 
 import java.util.Random;
 
