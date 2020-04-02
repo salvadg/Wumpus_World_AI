@@ -7,8 +7,6 @@
 //                'c' will return the CLIMB action. This is true,
 //                however, any key other than 'w,a,d,s,g' will return
 //                the CLIMB action.
-//
-//              - Don't make changes to this file.
 // ======================================================================
 
 import java.util.Scanner;
