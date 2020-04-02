@@ -1,26 +1,3 @@
-// ======================================================================
-// FILE:        MyAI.java
-//
-// AUTHOR:      Abdullah Younis
-//
-// DESCRIPTION: This file contains your agent class, which you will
-//              implement. You are responsible for implementing the
-//              'getAction' function and any helper methods you feel you
-//              need.
-//
-// NOTES:       - If you are having trouble understanding how the shell
-//                works, look at the other parts of the code, as well as
-//                the documentation.
-//
-//              - You are only allowed to make changes to this portion of
-//                the code. Any changes to other portions of the code will
-//                be lost when the tournament runs your code.
-// ======================================================================
-
-// host machine : java -jar Wumpus_World.jar -f /home/salvadjg/Wumpus_World_Student/Wumpus_World_World_Generator/Worlds
-
-// java -jar Wumpus_World.jar -f /Users/Sal/Desktop/practice/world_generator/Worlds
-
 
 import java.util.*;
 
