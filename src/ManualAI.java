@@ -1,14 +1,4 @@
 // ======================================================================
-// FILE:        ManualAI.java
-//
-// AUTHOR:      Abdullah Younis
-//
-// DESCRIPTION: This file contains the manual agent class, which
-//              implements the agent interface. The ManualAI will allow
-//              you to play the game as an omniscient agent. This will
-//              allow you to get a feel for the game before starting to
-//              code your agent.
-//
 // NOTES:       - The 'Get Input' part of the code will ignore all info
 //                after the first letter, as well as, all whitespace
 //                before the first letter.
