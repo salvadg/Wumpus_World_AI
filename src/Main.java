@@ -1,16 +1,5 @@
 // ======================================================================
-// FILE:        Main.java
-//
-// AUTHOR:      Abdullah Younis
-//
-// DESCRIPTION: This file is the entry point for the program. The main
-//              function serves a couple purposes: (1) It is the
-//              interface with the command line. (2) It reads the files,
-//              creates the World object, and passes that all the
-//              information necessary. (3) It is in charge of outputing
-//              information.
-//
-// NOTES:       - Syntax:
+// 	       - Syntax:
 //
 //                	Wumpus_World [Options] [InputFile] [OutputFile]
 //
@@ -36,8 +25,6 @@
 //                              be written. This is optional.
 //
 //              - If -m and -r are turned on, -m will be turned off.
-//
-//              - Don't make changes to this file.
 // ======================================================================
 
 import java.io.FileWriter;
